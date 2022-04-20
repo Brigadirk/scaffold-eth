@@ -31,5 +31,10 @@
    "search.exclude": {
       "**/yarn-error.log": true,
       "**/yarn.lock": true
+   },
+   "workbench.colorCustomizations": {
+      "activityBar.background": "#3A1C66",
+      "titleBar.activeBackground": "#51278E",
+      "titleBar.activeForeground": "#FBFAFE"
    }
 }
